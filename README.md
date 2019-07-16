@@ -6,3 +6,5 @@ Project contains jupyter notebook for data analysis and creation classification 
 
 To preview the notebook better use
 [nbviewer](https://nbviewer.jupyter.org/github/Weerel/AdvancedDataScienceCapstone/blob/master/Advanced%20Data%20Science%20Capstone.ipynb)
+
+[YouTube](https://www.youtube.com/watch?v=q3TJBOeuIik)
